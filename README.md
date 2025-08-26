@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**kishanjadav238/kishanjadav238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Solidity Smart Contract Developer** passionate about building decentralized applications (dApps) and exploring DeFi mechanisms.  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Solidity, Hardhat, Foundry  
+- ERC20, ERC721, ERC1155  
+- Smart contract testing & deployment  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [ERC721 Marketplace](https://github.com/kishanjadav238/erc721-marketplace)
+- [node-runner-tooling](https://github.com/kishanjadav238/node-runner-tooling)  
+- [Staking dApp]
+- [Lending dApp]
+
+## 📫 Connect
+- Twitter:  
+- Telegram: 
