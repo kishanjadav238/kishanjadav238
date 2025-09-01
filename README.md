@@ -10,7 +10,7 @@ I'm a **Solidity Smart Contract Developer** passionate about building decentrali
 ## 🚀 Featured Projects
 - [ERC721 Marketplace](https://github.com/kishanjadav238/erc721-marketplace)
 - [node-runner-tooling](https://github.com/kishanjadav238/node-runner-tooling)  
-- [Staking dApp]
+- [Staking dApp](https://github.com/kishanjadav238/Staking-DApp)
 - [Lending dApp]
 
 ## 📫 Connect
